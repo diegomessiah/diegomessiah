@@ -37,7 +37,7 @@ A Python-based tool designed to perform comprehensive security audits of Microso
 - Data Retention Policies
 - Microsoft Teams Settings
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github)](https://github.com/diegomessiah/microsoft-365-security-baseline)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github)](https://github.com/diegomessiah/Microsoft-365-Security-Baseline-Checker)
 
 ---
 
